@@ -1,0 +1,49 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+.pnpm-debug.log*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# IDE/Editor
+.vscode/
+.idea/
+*.iml
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Build output
+dist/
+*.log
+*.gz
+*.zip
+*.tar
+*.rar
+
+# Vite & TypeScript
+.vite/
+.vitest/
+.vscode/
+coverage/
+.env
+*.tsbuildinfo
+
+# Cypress
+cypress/screenshots/
+cypress/videos/
+cypress/downloads/
+
+# ESLint / Prettier / Stylelint
+.eslintcache
+.prettiercache
+.stylelintcache
+
+# GitHub Pages (gh-pages)
+gh-pages/
